@@ -1,5 +1,6 @@
-ReactJS + TypeScript (+React Router DOM) 2019 - TodoList Application using React, TypeScript and Materialize CSS.
-https://youtu.be/OvLWWvjoi8s?list=PLqKQF2ojwm3nW-cQeSER79xdpK3vL5c-g
+## description
+
+ReactJS + TypeScript (+React Router DOM) 2019 by Vladilen Minin -https://youtu.be/OvLWWvjoi8s?list=PLqKQF2ojwm3nW-cQeSER79xdpK3vL5c-g
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
